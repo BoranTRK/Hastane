@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="img"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-19">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Boran/Desktop/javacv-1.2-bin/javacv-bin/javacpp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Boran/Desktop/javacv-1.2-bin/javacv-bin/javacv.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Boran/Desktop/javacv-1.2-bin/javacv-bin/opencv.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Boran/Desktop/javacv-1.2-bin/javacv-bin/opencv-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Boran/Desktop/opencv/build/java/opencv-310.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/Boran/Desktop/opencv/build/java/x64"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Boran/Desktop/opencv/build/java/opencv-460.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/Boran/Desktop/opencv/build/java/x64"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Boran/Desktop/webcam-capture-0.3.12-dist/webcam-capture-0.3.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Boran/Desktop/webcam-capture-0.3.12-dist/libs/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Boran/Desktop/webcam-capture-0.3.12-dist/libs/bridj-0.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Boran/Desktop/slf4j-nop-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Boran/Desktop/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-project-workspace/needs/postgresql-42.5.0.jar"/>
+	<classpathentry kind="lib" path="jcalendar-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
